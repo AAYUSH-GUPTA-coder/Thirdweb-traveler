@@ -41,7 +41,7 @@ contract TravelQuest is ERC1155LazyMint{
 
 
     /**
-     * @dev Mint NFT and also check verious condition
+     * @dev Mint NFT and also check various conditions
      * 1. One user can mint only one NFT per Bundle Collection
      * 2. Give error if _tokenId is wrong
      * 3. Check and give error if all the NFTs are Minted
