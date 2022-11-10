@@ -1,33 +1,7 @@
-## Getting Started
+## Contract Address
+### [0xf54C08bAE71d40b15E21F84f4970265A803DbC79](https://mumbai.polygonscan.com/address/0xf54C08bAE71d40b15E21F84f4970265A803DbC79)
 
-Create a project using this example:
+## Tutorial
+You can also follow this tutorial to build the same project and understand how you can use thirdweb's 'contractKit' and 'deploy' tool. This tutorial covers the whole lifecycle of dapp development.
 
-```bash
-npx thirdweb create --contract --template hardhat-javascript-starter
-```
-
-You can start editing the page by modifying `contracts/Contract.sol`.
-
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/thirdweb-deploy/contract-extensions) to learn more.
-
-## Building the project
-
-After any changes to the contract, run:
-
-```bash
-npm run build
-# or
-yarn build
-```
-
-to compile your contracts. This will also detect the [Contracts Extensions Docs](https://portal.thirdweb.com/thirdweb-deploy/contract-extensions) detected on your contract.
-
-## Deploying Contracts
-
-When you're ready to deploy your contracts, just run one of the following command to deploy you're contracts:
-
-```bash
-npm run deploy
-# or
-yarn deploy
-```
+### [How to Build custom ERC-1155 NFT Collection using thirdweb](https://aayushguptaji.hashnode.dev/how-to-build-custom-erc-1155-nft-collection-using-thirdweb)
